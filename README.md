@@ -2,6 +2,11 @@
 
 In this workshop you will learn more about the concept of Virtual DOM, JSX, React terminology and as well as will replicate a very minimal version of React from scratch.
 
+## Set up
+
+Clone the repository and run `npm i`.
+To start the tests, run `npm run start`.
+
 ## Task 0 Warmup
 
 Your goal is to implement `createElement` function. Typescript compiler will detect JSX syntax in .tsx files and will automatically convert html-style tags into valid TS code. 
